@@ -5,7 +5,6 @@
   <title>はじめてのページ</title>
 </head>
 <body>
-  <h1>こんにちは</h1>
-  <p>これは本文です。</p>
+ <img src="./><br>
 </body>
 </html>
