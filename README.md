@@ -5,6 +5,6 @@
   <title>はじめてのページ</title>
 </head>
 <body>
- <img src="./><br>
+ <img src="./bg1.png" style="position: absolute; left: 0; top: 0;">
 </body>
 </html>
